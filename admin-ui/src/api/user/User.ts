@@ -1,6 +1,8 @@
+import { Content } from "../content/Content";
 import { Post } from "../post/Post";
 
 export type User = {
+  content?: Content | null;
   createdAt: Date;
   firstName: string | null;
   id: string;
