@@ -3,14 +3,14 @@
   "appInfo": {
     "name": "app/main",
     "description": "",
-    "version": "szpmcruq",
+    "version": "lp4tz5uj",
     "id": "cl38pbnr8143781601s6d61zrfu3",
     "url": "https://app.amplication.com/cl38pbnr8143781601s6d61zrfu3",
     "settings": {
       "dbHost": "localhost",
       "dbName": "db",
       "dbPassword": "admin",
-      "dbPort": 5436,
+      "dbPort": 5432,
       "dbUser": "admin",
       "appId": "cl38pbnr8143781601s6d61zrfu3",
       "authProvider": "Jwt"
